@@ -1,0 +1,3 @@
+public enum StudentMajor {
+    COMPUTER_SCIENCE, MATHEMATIC, LITERATURE, PHYSIC, HISTORY
+}
